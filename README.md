@@ -1,6 +1,5 @@
-https://github.com/Roxas35/Roxas35/issues/1#issue-1025597672
+<!--![Uploading 20200617_121554.jpg…]()
 
-<!--
 **Roxas35/Roxas35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
