@@ -1,4 +1,8 @@
-<p align="center"><font color="red" >Hi, I'm Raphaël Cadot</font></p>
+<p align="center">
+  <font color="red">
+    Hi, I'm Raphaël Cadot
+  </font>
+</p>
 
   
     
