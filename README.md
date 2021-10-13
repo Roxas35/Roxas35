@@ -6,7 +6,7 @@ Hi, I'm Raphaël Cadot
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/R0xas35)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rapha%C3%ABl-cadot-33538214b/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roxas35_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roxas35&show_icons=true&theme=radical)
 
 **Roxas35/Roxas35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
