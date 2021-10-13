@@ -9,7 +9,7 @@ Hi, I'm Raphaël Cadot
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxas35)](https://github.com/Roxas35/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Portfolio)](https://github.com/Roxas35/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Portfolio)](https://roxas35.github.io/Portfolio/)
 
 **Roxas35/Roxas35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
