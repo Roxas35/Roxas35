@@ -1,5 +1,5 @@
 <p align="center">
-  <font size="60">
+  <font size="25">
     Hi, I'm Raphaël Cadot
   </font>
 </p>
