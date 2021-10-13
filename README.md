@@ -7,7 +7,9 @@ Hi, I'm Raphaël Cadot
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rapha%C3%ABl-cadot-33538214b/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxas35)](https://github.com/Roxas35/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Roxas35)](https://github.com/Roxas35/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Portfolio)](https://github.com/Roxas35/Portfolio)
 
 **Roxas35/Roxas35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
