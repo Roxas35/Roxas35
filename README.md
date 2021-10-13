@@ -1,9 +1,7 @@
 <html>
 
-<h1 align="center">
-  <font color="red">
+<h1 align="center" font size="25">
     Hi, I'm Raphaël Cadot
-  </font>
 </h1>
 </html>
 
