@@ -2,9 +2,11 @@
 
 Hi, I'm Raphaël Cadot
 
-[![GitHub watchers](https://img.shields.io/github/watchers/Roxas35/Roxas35?style=social)](https://github.com/Roxas35)
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/Roxas35)]
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/R0xas35)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rapha%C3%ABl-cadot-33538214b/)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxas35)](https://github.com/Roxas35/github-readme-stats)
 
