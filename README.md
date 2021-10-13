@@ -2,7 +2,7 @@
 
 Hi, I'm Raphaël Cadot
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/https://twitter.com/R0xas35)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/R0xas35)
 
 **Roxas35/Roxas35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
