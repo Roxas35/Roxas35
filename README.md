@@ -1,10 +1,10 @@
 <html>
 
-<p align="center">
+<h1 align="center">
   <font color="red">
     Hi, I'm Raphaël Cadot
   </font>
-</p>
+</h1>
 </html>
 
   
