@@ -1,9 +1,11 @@
 <html>
 
-<h1 align="center" color="red">
+<h1 align="center">
     Hi, I'm Raphaël Cadot
 </h1>
 </html>
+
+<p><font size="200">Hello there</font></p>
 
   
     
