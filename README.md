@@ -10,7 +10,7 @@ Hi, I'm Raphaël Cadot
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Portfolio)](https://roxas35.github.io/Portfolio/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=PetAdopt)](https://roxas35.github.io/Pet-Adopt/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Pet-Adopt)](https://roxas35.github.io/Pet-Adopt/)
 
 
 **Roxas35/Roxas35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
