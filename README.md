@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![20200617_121554](https://user-images.githubusercontent.com/72147801/137213397-7b97d29f-16e7-4ac8-8343-9082e7e1354a.jpg?raw=true) alt="Raphaël Cadot"/>
+  <img src="![20200617_121554](https://user-images.githubusercontent.com/72147801/137213397-7b97d29f-16e7-4ac8-8343-9082e7e1354a.jpg?raw=true width=400 height=600" alt="Raphaël Cadot"/>
 </p>
 Hi, I'm Raphaël Cadot
 
