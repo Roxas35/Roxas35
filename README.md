@@ -4,7 +4,15 @@
     Hi, I'm Raphaël Cadot
 </h1>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/72147801/137213397-7b97d29f-16e7-4ac8-8343-9082e7e1354a.jpg" style="width: 400px"></p>
+<img src="https://user-images.githubusercontent.com/72147801/137213397-7b97d29f-16e7-4ac8-8343-9082e7e1354a.jpg"
+     alt="Raphaël Cadot"
+     width="400"
+     height="341">
+    
+    
+<p align="center"><img src= style="width: 400px"></p>
+    
+
     
 </html>
 
