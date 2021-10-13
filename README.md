@@ -14,9 +14,9 @@
           Tremplin section.
   </h1>
     
-    <h2>
-          We learn to code with different programming languages ​​such as C,
-          Python and JavaScript. But I also know other languages ​​like Java,
+   <h2>
+          We learn to code with different programming languages such as C,
+          Python and JavaScript. But I also know other languages like Java,
           Lua and C#.
         </h2>
         <br />
