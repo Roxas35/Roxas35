@@ -1,6 +1,6 @@
 <html>
 
-<h1 align="center" font size="25">
+<h1 align="center" color="red">
     Hi, I'm Raphaël Cadot
 </h1>
 </html>
