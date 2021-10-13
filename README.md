@@ -19,28 +19,27 @@
           Python and JavaScript. But I also know other languages like Java,
           Lua and C#.
         </h3>
-        <br />
         <h3>
           First, I was in BEP TBA at Fressynet, then I turned more towards the
           economy section, when I went to the Bac Pro in Rennes.
         </h3>
-        <br />
+
         <h3>
           After, I went to have an opportunity to continue, I had to obtain the
           BACSTI2D Architectural Assistant and then validate my place in BTS for
           two years.
         </h3>
-        <br />
+
         <h3>
           I went to Rennes 1 University located in Beaulieu to try to find my
           future path in computer science.
         </h3>
-        <br />
+
         <h3>
           Finally, I went to an association called Atypick where, I was taught
           HTML and CSS in detail.
         </h3>
-        <br />
+
         <h3>
           My professional project is to become a game designer for a video game
           company called SEGA.
