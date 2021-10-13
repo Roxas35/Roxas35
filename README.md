@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/72147801/137213397-7b97d29f-16e7-4ac8-8343-9082e7e1354a.jpg" style="width: 200px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/72147801/137213397-7b97d29f-16e7-4ac8-8343-9082e7e1354a.jpg" style="width: 500px"></p>
 
 Hi, I'm Raphaël Cadot
 
