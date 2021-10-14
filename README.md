@@ -3,6 +3,7 @@
 <h1 align="center">
     Hi, I'm Raphaël Cadot.
     </br>
+    </br>
     I'm currently training at the Solacroup Institute in Dinard in
           Tremplin section.
 
