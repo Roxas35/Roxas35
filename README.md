@@ -118,7 +118,7 @@
     <img alt="WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
-<h3>Socials Links</h3>
+<h2>Socials Links</h2>
     
     
 <p>
