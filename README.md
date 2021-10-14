@@ -39,11 +39,7 @@
         <h3>
           My professional project is to become a game designer for a video game
           company called SEGA.
-        </h3>
-     
-    
-
-    
+        </h3>   
 </html>
 
 
