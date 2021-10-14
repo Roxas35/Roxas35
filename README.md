@@ -4,9 +4,9 @@
     Hi, I'm Raphaël Cadot.
     </br>
     </br>
-    I'm currently training at the Solacroup Institute in Dinard in
-          Tremplin section.
-</h1>
+    I'm currently training at the Solacroup Institute in Dinard in Back-End section.     
+    </h1>
+
 </br>
 </br>
 
@@ -20,7 +20,7 @@
    <h3>
           We learn to code with different programming languages such as C,
           Python and JavaScript. But I also know other languages like Java,
-          Lua and C#.
+          Lua, C# C++.
         </h3>
         <h3>
           First, I was in BEP TBA at Fressynet, then I turned more towards the
