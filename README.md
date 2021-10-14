@@ -43,7 +43,7 @@
 </html>
 
 
-## TOP LANS
+### TOP LANS
 
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxas35&theme=blue-green"/>
 
@@ -52,7 +52,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Portfolio)](https://roxas35.github.io/Portfolio/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Pet-Adopt)](https://roxas35.github.io/Pet-Adopt/)
 
-## Learn Skills
+### Learn Skills
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
