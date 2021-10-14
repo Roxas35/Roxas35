@@ -45,7 +45,7 @@
 
 ## TOP LANS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxas35)](https://github.com/Roxas35/github-readme-stats)
+<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxas35&theme=blue-green"/>
 
 ### Most Popular Project
 
