@@ -16,6 +16,7 @@
      width="400">
 </p>
 
+<h2>MY HISTORY</h2>
     
    <h4>
           We learn to code with different programming languages such as C,
