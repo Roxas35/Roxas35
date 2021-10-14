@@ -46,15 +46,17 @@
 
 
 
-<h3>TOP LANGS</h3>
+<h2>TOP LANGS GITHUB</h2>
 
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxas35&theme=blue-green"/>
 
-<h3>Most Popular Project</h3>
+<h2>Most Popular Project GITHUB</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Portfolio)](https://roxas35.github.io/Portfolio/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Pet-Adopt)](https://roxas35.github.io/Pet-Adopt/)
 
+
+<h2>SKILLS</h2>
 
 <h3>IDE</h3>
 <p>
