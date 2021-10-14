@@ -50,13 +50,13 @@
 
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxas35&theme=blue-green"/>
 
-<h2>Most Popular Project GITHUB</h2>
+<h2>MOST POPULAR PROJECTS GITHUB</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Portfolio)](https://roxas35.github.io/Portfolio/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Pet-Adopt)](https://roxas35.github.io/Pet-Adopt/)
 
 
-<h2>SKILLS</h2>
+<h2> MY SKILLS</h2>
 
 <h3>IDE</h3>
 <p>
