@@ -62,11 +62,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Portfolio)](https://roxas35.github.io/Portfolio/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Roxas35&repo=Pet-Adopt)](https://roxas35.github.io/Pet-Adopt/)
 
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 **Roxas35/Roxas35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
