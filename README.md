@@ -46,7 +46,7 @@
 
 
 
-<h3>TOP LANS</h3>
+<h3>TOP LANGS</h3>
 
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxas35&theme=blue-green"/>
 
