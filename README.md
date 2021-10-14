@@ -6,8 +6,9 @@
     </br>
     I'm currently training at the Solacroup Institute in Dinard in
           Tremplin section.
-          </br>
 </h1>
+</br>
+</br>
 
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/72147801/137213397-7b97d29f-16e7-4ac8-8343-9082e7e1354a.jpg"
      alt="Raphaël Cadot"
